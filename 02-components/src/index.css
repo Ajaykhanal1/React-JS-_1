@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: rgb(56, 79, 69);
+  color: rgb(232, 232, 232);
+}
+.card{
+  background-color: rgb(179, 12, 40);
+  margin: 100px;
+  padding: 100px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bolder;
+}
